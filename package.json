@@ -1,0 +1,9 @@
+{
+  "dependencies": {
+    "html-to-text": "^9.0.5",
+    "nodemailer": "^6.9.16"
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.16"
+  }
+}
