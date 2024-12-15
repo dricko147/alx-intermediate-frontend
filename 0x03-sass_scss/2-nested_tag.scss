@@ -1,12 +1,13 @@
-guillaume@ubuntu:~/$ sass 3-nested_tag.scss | tail -n +2
+$nomargin:0px;
+$nopadding:0px;
+$paragraphmargin:10px;
 
 body {
-  margin: 0px;
-  padding: 0px; 
-}
-
-body p {
-  margin: 10px; 
-}
-
-guillaume@ubuntu:~/$
+    margin: $nomargin;
+    padding: $nopadding; 
+  }
+  
+  body p {
+    margin: $paragraphmargin; 
+  }
+  
