@@ -1,0 +1,15 @@
+Inside the alx-intermediate-frontend repository, create a new directory called 0x03-sass_scss
+Linux installation (Optional)
+In your ubuntu terminal install node version 20.16 as follows:
+$ curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.7/install.sh | bash
+Exit the terminal using the exit command then reopen it.
+Installation Anywhere (Optional)
+Install SASS by using the following command if you have node installed:
+npm install sass -v 3.7.4
+Create an empty file 0-installation-script.
+
+Inside it write the steps you took to install SASS
+
+
+
+
